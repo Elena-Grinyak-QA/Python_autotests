@@ -19,7 +19,7 @@
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
 
-![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest-api.png)
+![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/Python_autotests/refs/heads/main/2025-07-12_14-55-06.png)
 
 
 ## Автор
